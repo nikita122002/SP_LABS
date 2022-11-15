@@ -1,0 +1,7 @@
+﻿  Lab8.cpp
+D:\5сем\labs_sp\диск\8\Lab8.cpp(170,14): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 3 has type 'BYTE *'
+D:\5сем\labs_sp\диск\8\Lab8.cpp(170,14): message : consider using '%hs' in the format string
+D:\5сем\labs_sp\диск\8\Lab8.cpp(170,14): message : consider using '%Ts' in the format string
+D:\5сем\labs_sp\диск\8\Lab8.cpp(170,14): message : this warning is based on non-standard semantics used by Visual C++
+D:\5сем\labs_sp\диск\8\Lab8.cpp(18): warning C4172: returning address of local variable or temporary: tmp
+  Lab8_SP.vcxproj -> D:\5сем\Lab8_SP\x64\Debug\Lab8_SP.exe
