@@ -53,3 +53,12 @@
 ![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5.png)
 
 ![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5_1.png)
+
+# Л.р.8. Некоторые служебные 
+и технологические задачи
+
+Работа с реестром: поиск и экспорт
+
+Пример работы программы
+
+![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab8_SP/lab8.png)
