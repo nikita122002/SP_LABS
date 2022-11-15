@@ -41,3 +41,15 @@
 Пример работы программы
 
 ![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab6_SP/lab6.png)
+
+# Л.р.7. Элементы сетевого программирования
+
+Интерактивное взаимодействие пользователей («чат»)
+Упрощенный чат для нескольких пользователей (в целом подобно 
+заданию из темы «Обмен данными») с использованием сетевых сокетов.
+
+Пример работы программы
+
+![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5.png)
+
+![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5_1.png)
