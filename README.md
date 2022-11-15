@@ -34,3 +34,10 @@
 
 ![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5_1.png)
 
+# Л.р.6. Взаимодействие процессов (потоков): взаимное исключение и синхронизация
+
+Модель «обедающие философы»
+
+Пример работы программы
+
+![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab6_SP/lab6.png)
