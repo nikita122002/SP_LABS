@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Task_Manager.cpp
+  main.cpp
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ModalDialog.vcxproj -> D:\5сем\labs_sp\2\Debug\Task_Manager.exe
