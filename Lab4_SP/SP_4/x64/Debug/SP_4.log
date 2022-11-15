@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\5сем\labs_sp\SP_4\SP_4\Source.cpp(330,33): warning C4838: conversion from 'DWORD' to 'int' requires a narrowing conversion
+D:\5сем\labs_sp\SP_4\SP_4\Source.cpp(331,34): warning C4838: conversion from 'DWORD' to 'int' requires a narrowing conversion
+D:\5сем\labs_sp\SP_4\SP_4\Source.cpp(332,33): warning C4838: conversion from 'DWORD' to 'int' requires a narrowing conversion
+D:\5сем\labs_sp\SP_4\SP_4\Source.cpp(333,34): warning C4838: conversion from 'DWORD' to 'int' requires a narrowing conversion
+  SP_4.vcxproj -> D:\5сем\labs_sp\SP_4\x64\Debug\SP_4.exe
