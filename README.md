@@ -23,3 +23,14 @@
 Пример работы программы
 
 ![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab4_SP/SP_4/lab4.png)
+
+# Л.р.5. Взаимодействие процессов: обмен данными
+
+Интерактивное взаимодействие пользователей («чат»)
+
+Пример работы программы
+
+![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5.png)
+
+![Image](https://github.com/nikita122002/SP_LABS/blob/main/Lab5_SP/lab5_1.png)
+
