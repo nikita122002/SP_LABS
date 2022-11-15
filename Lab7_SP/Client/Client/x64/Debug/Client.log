@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\5sem\SP\Lab5\Client\Client\Client.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "DWORD"
+C:\5sem\SP\Lab5\Client\Client\Client.cpp(29,1): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Client.vcxproj -> C:\5sem\SP\Lab5\Client\x64\Debug\Client.exe
